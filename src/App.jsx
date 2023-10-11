@@ -1,3 +1,14 @@
+import {
+  Hero,
+  CustomerReviews,
+  Footer,
+  PopularProducts,
+  Services,
+  SpecialOffers,
+  Subscribe,
+  SuperQuality
+} from "./sections";
+
 const App = () => (
  <main className="relative">
   <section className="xl:padding-1 wide:padding-r padding-b">
